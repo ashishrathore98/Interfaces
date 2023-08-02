@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\SimpliLearn Course\Assisted Project\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\SimpliLearn Course\Assisted Project\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\SimpliLearn Course\Assisted Project\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\SimpliLearn Course\Assisted Project\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
